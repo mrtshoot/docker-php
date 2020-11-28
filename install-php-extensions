@@ -2,11 +2,11 @@
 
 # This script wraps docker-php-ext-install, properly configuring the system.
 #
-# Copyright (c) Michele Locati, 2018-2020
+# Copyright (c) Mrtshoot, 2018-2020
 #
-# Source: https://github.com/mlocati/docker-php-extension-installer
+# Source: https://raw.githubusercontent.com/mrtshoot/docker-php/master/install-php-extensions
 #
-# License: MIT - see https://github.com/mlocati/docker-php-extension-installer/blob/master/LICENSE
+
 
 # Let's set a sane environment
 set -o errexit
